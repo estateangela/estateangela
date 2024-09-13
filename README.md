@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estateangela
 - 👀 I’m interested in LAYOUT DESIGN
-- 🌱 I’m currently learning CSS.HTML.PYTHON
+- 🌱 I’m currently learning vue.js
 
 
 <!---
