@@ -31,9 +31,6 @@ LEARNING    ▸ JavaScript · Dart/Flutter · UI / Layout design
 <div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=estateangela&show_icons=true&theme=synthwave&hide_border=true&title_color=f72585&icon_color=4cc9f0)
-![streak](https://streak-stats.demolab.com/?user=estateangela&theme=synthwave&hide_border=true&stroke=f72585&ring=4cc9f0&fire=f72585)
-
-<img src="https://github-profile-trophy.vercel.app/?username=estateangela&theme=matrix&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophies"/>
 
 <sub>◤ estateangela/estateangela · this README renders on my profile ◢</sub>
 
