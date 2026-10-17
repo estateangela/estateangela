@@ -25,9 +25,6 @@ LEARNING    ▸ JavaScript · Dart/Flutter · UI / Layout design
 ### 🤖 `> projects`
 - 🗺️ **[rn-route-audit](https://github.com/estateangela/rn-route-audit)** — published on the [GitHub Marketplace](https://github.com/marketplace/actions/react-navigation-route-audit)
   <br><sub>One shared name per screen, so designers, devs and QA stop describing screens to each other. Maps React Navigation routes to the screens that render them, and finds a route from text someone read on screen. Validated against BlueWallet, Rocket.Chat and react-navigation itself · 48 tests · zero dependencies.</sub>
-- 🧠 **[MyChatGPTbot](https://github.com/estateangela/MyChatGPTbot)** — ChatGPT bot
-- 🛰️ **[robotapi](https://github.com/estateangela/robotapi)** — small API service
-- 💾 **[robotcache](https://github.com/estateangela/robotcache)** — caching service
 
 ### 🌱 `> learning`
 `JavaScript` · `Dart / Flutter`
