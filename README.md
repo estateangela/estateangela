@@ -26,8 +26,9 @@ LEARNING    ▸ JavaScript · Dart/Flutter · UI / Layout design
 - 🗺️ **[rn-route-audit](https://github.com/estateangela/rn-route-audit)** — published on the [GitHub Marketplace](https://github.com/marketplace/actions/react-navigation-route-audit)
   <br><sub>One shared name per screen, so designers, devs and QA stop describing screens to each other. Maps React Navigation routes to the screens that render them, and finds a route from text someone read on screen. Validated against BlueWallet, Rocket.Chat and react-navigation itself · 48 tests · zero dependencies.</sub>
 
-### 🌱 `> learning`
-`JavaScript` · `Dart / Flutter`
+### ⚙️ `> how i build`
+I ship tools with AI coding agents. The agent types; I decide what is worth
+building, what to cut, and when the output is wrong.
 
 ---
 
