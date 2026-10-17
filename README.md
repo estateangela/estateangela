@@ -16,10 +16,12 @@ QA automation engineer by day — I turn flaky manual checks into fast, repeatab
 
 ### 🕶️ `> stack`
 ```text
-TESTING/QA  ▸ Python · Behave(BDD) · pytest · Appium/Selenium · Allure
+TESTING/QA  ▸ Robot Framework · Behave(BDD) · pytest · Appium/Selenium · Allure
+DATABASE    ▸ PostgreSQL · SQL · test data setup & teardown
 BACKEND     ▸ Python · httpx · REST · Supabase
 DATA/ML     ▸ pandas · scikit-learn · XGBoost
-LEARNING    ▸ JavaScript · Dart/Flutter · UI / Layout design
+DOMAIN      ▸ crypto exchange — custody, deposits/withdrawals, KYC, Travel Rule
+WORKING     ▸ spec review · cross-team QA ↔ design ↔ backend · release sign-off
 ```
 
 ### 🤖 `> projects`
@@ -27,8 +29,8 @@ LEARNING    ▸ JavaScript · Dart/Flutter · UI / Layout design
   <br><sub>One shared name per screen, so designers, devs and QA stop describing screens to each other. Maps React Navigation routes to the screens that render them, and finds a route from text someone read on screen. Validated against BlueWallet, Rocket.Chat and react-navigation itself · 48 tests · zero dependencies.</sub>
 
 ### ⚙️ `> how i build`
-I ship tools with AI coding agents. The agent types; I decide what is worth
-building, what to cut, and when the output is wrong.
+I ship tools with AI coding agents — an internal QA script became a
+published GitHub Action in a day. The agent types; I decide what ships.
 
 ---
 
